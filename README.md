@@ -7,3 +7,4 @@ To run the project:
 3. Run `npm start`
 
 The docs folder contains the build files.
+Project deployed at https://hmahajan99.github.io/Star-Wars-Wiki/ 
