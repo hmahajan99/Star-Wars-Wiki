@@ -3,8 +3,9 @@ This project is single page React application that uses fetch API to retrieve in
 
 To run the project:
 1. Clone this repo
-2. Run `npm install`
-3. Run `npm start`
+2. Change you working directory : `cd Star-Wars-Wiki` 
+3. Run `npm install`
+4. Run `npm start`
 
 The docs folder contains the build files. <br />
 Project deployed at https://hmahajan99.github.io/Star-Wars-Wiki/ 

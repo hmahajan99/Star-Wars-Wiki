@@ -49,7 +49,7 @@ class MenuAppBar extends React.Component {
             </Typography>
               <div>
                 <IconButton color="inherit" >
-                  <a href="https://github.com/hmahajan99" className={classes.link}>
+                  <a href="https://github.com/hmahajan99/Star-Wars-Wiki" className={classes.link}>
                     <PopupIcon />
                     <StarIcon />
                   </a>
