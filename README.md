@@ -9,3 +9,5 @@ To run the project:
 
 The docs folder contains the build files. <br />
 Project deployed at https://hmahajan99.github.io/Star-Wars-Wiki/ 
+
+![](demo.JPG)
