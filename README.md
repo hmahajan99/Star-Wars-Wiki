@@ -1,4 +1,4 @@
-#Star Wars Wiki
+# Star Wars Wiki
 This project is single page React application that uses fetch API to retrieve information and display it on the website from this great Star Wars API (https://swapi.co/). Material-UI library has been used for building the user interface for this website. 
 
 To run the project:
